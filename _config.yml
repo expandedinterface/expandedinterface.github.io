@@ -4,8 +4,8 @@
 title:               Expanded interfaces
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'https://tingeber.github.io/expanded-interfaces'
-baseurl:             '/expanded-interfaces'
+url:                 'https://tingeber.github.io/expandedinterfaces'
+baseurl:             '/expandedinterfaces'
 
 # About/contact
 author:
