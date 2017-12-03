@@ -5,11 +5,12 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
+    <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Introduction</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -25,17 +26,29 @@
       {% endif %}
     {% endfor %}
 
+
+
+    {% for item in site.texts %}
+    
+        <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a>
+
+    {% endfor %}
+
+
+
     <!-- The code below is used for manually entered links  -->
 
-    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+<!--     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span> -->
 
 <!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a> -->
 <!--  -->
     <!-- <script src="https://hypothes.is/embed.js" async></script> -->
 
-    <a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">GitHub project</a>
+    <!-- <a class="sidebar-nav-item" href="https://github.com/minicomp/ed" target="_blank">GitHub project</a> -->
   </nav>
 
   <div class="sidebar-item">

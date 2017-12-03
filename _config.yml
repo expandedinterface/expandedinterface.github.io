@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Expanded interfaces
+title:               Expanded Interfaces
 tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'A speculative exploration of the interface; the relational boundary between humans, computation and matter.'
 url:                 'https://tingeber.github.io/expandedinterfaces'
 baseurl:             '/expandedinterfaces'
 
