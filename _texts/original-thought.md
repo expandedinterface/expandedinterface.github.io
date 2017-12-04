@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Original Thought
-subtitle: On the trasparent interface
+subtitle: On the transparent interface
 author: Becky Aston
 
 ---
