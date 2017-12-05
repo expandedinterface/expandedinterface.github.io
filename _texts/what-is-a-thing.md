@@ -10,12 +10,12 @@ Is it porcelain?
 
 
 
-Is it an antique? An heirloom? 
-Is it a symbol of class? 
+Is it an antique? An heirloom?
+Is it a symbol of class?
 
 
 
-Is it the Wedgwood pattern? A cultural appropriation? 
+Is it the Wedgwood pattern? A cultural appropriation?
 
 
 
@@ -44,7 +44,7 @@ Is it a file?
 
 
 
-Is it the way it fits a hand? Is it scale? 
+Is it the way it fits a hand? Is it scale?
 
 
 
@@ -58,8 +58,7 @@ Is it pixel information?
 
 Is it data? Vertices in some cartesian idea of space? Or could it be how it sits on a table, some table, an idea of a table?
 
----
-
+```
 This file uses centimeters as units for non-parametric coordinates.
 
 - mtllib chinaJug.mtl
@@ -1477,3 +1476,4 @@ This file uses centimeters as units for non-parametric coordinates.
 - v 0.176834 0.064502 0.147308
 - v 0.173875 0.064328 0.148974
 - v 0.175373 0.061381 0.148806
+```
