@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: Ask Me How I Feel
 subtitle: The computer as partner with agency.
 author: Tin Geber
