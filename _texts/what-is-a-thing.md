@@ -39,7 +39,7 @@ Inches? Centimeters? Or perhaps pixels?
 
 <br><br>
 
-Is it pixel information?     
+Is it RGB data? A texture?     
 Flattened?
 
 ![map](/assets/Model.jpg){:class="img-responsive"}
