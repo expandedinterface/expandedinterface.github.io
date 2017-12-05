@@ -3,7 +3,7 @@ layout: page
 title: Index
 ---
 
-This will be our list of content page. We can maybe do the more categorized table thing here? But also just have links to all the separate pieces in the menu? It never hurst to have more than one way to navigate a site.
+This will be our list of content page. We can maybe do the more categorized table thing here? But also just have links to all the separate pieces in the menu? It never hurts to have more than one way to navigate a site.
 
 
 <div class="toc">

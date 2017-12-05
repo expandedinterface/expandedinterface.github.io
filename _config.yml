@@ -2,7 +2,7 @@
 
 # Setup
 title:               Expanded Interfaces
-tagline:             'a jekyll theme for minimal editions'
+tagline:             ''
 description:         'A speculative exploration of the interface; the relational boundary between humans, computation and matter.'
 url:                 'https://tingeber.github.io/expandedinterfaces'
 baseurl:             '/expandedinterfaces'
@@ -15,8 +15,8 @@ author:
 
 # Permalinks
 
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: cyan
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown, green
+color-scheme: green
 
 permalink: pretty
 permalink: /:title/
