@@ -22,6 +22,7 @@ She looked across at him and spoke with what she hoped was finality.
 - {:.indent-2}“I just don’t think I can change how I feel. I think you’ll be hurt more by trying”
 
 There was a long silence, his face constricted. He needed to say exactly the right thing.
+She wished he would leave. She felt she owed him this time, a look of total desperation was on his face. But he was asking for so much, this conversation was pointless. It was enough having to work with the computer at work, she certainly didn’t want one at home. It was her life!
 He couldn’t overcome his fear of speaking. They stood there, in silence, with time inching by. Nothing he could think of was good enough.
 Saying anything was better than nothing.
 
