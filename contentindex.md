@@ -21,7 +21,7 @@ This will be our list of content page. We can maybe do the more categorized tabl
 <div class="toc">
   <h2>Texts</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in site.artifacts %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
