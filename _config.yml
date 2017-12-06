@@ -20,7 +20,7 @@ pages: true
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown, green
-color-scheme:
+color-scheme: green
 
 permalink: pretty
 permalink: /:title/
