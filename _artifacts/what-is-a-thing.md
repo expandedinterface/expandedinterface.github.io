@@ -1,12 +1,12 @@
 ---
-layout: post2
+layout: artifact
 title: How to interact with a thing?
 subtitle: Thoughts on interfacing with the virtual, a riff on Kosuth’s One and Three Chairs.
 author: Becky Aston
 ---
 
 Is it porcelain?     
-A thing to be picked up? 
+A thing to be picked up?
 
 ![china-jug](/assets/SingleJug.png){:class="img-responsive"}
 

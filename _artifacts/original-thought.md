@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: artifact
 title: Original Thought
 subtitle: On the transparent interface
 author: Becky Aston
 
 ---
 
-The vibration of my alarm radiating through my skull brought the sweaty twist of my bedsheets into sharper focus. Shallow frenzied sleep thankfully slips away into the grey dawn; taking with it the edges of sleek furniture I’d never seen and the strains of familiar raised voices. It was just a dream, but I couldn’t shake the sense of sour betrayal sitting in the pit of my stomach. Unable to bear another moment in bed I pulled myself upright. 
+The vibration of my alarm radiating through my skull brought the sweaty twist of my bedsheets into sharper focus. Shallow frenzied sleep thankfully slips away into the grey dawn; taking with it the edges of sleek furniture I’d never seen and the strains of familiar raised voices. It was just a dream, but I couldn’t shake the sense of sour betrayal sitting in the pit of my stomach. Unable to bear another moment in bed I pulled myself upright.
 
-The light flickered on as I entered the bathroom, no matter how dim the light setting, they still managed to burn my eyes.The dull ache in my temples sharpened. Eyes screwed shut, I groped for the basin and leaned into it while waiting for the pain to pass. Looking into the mirror all I could see were the purple smudges beneath my eyes like wells sinking deeper every day. “You need to see a therapist,” seemed to echo into the damp bathroom like some stranger’s voice filled with concern. 
+The light flickered on as I entered the bathroom, no matter how dim the light setting, they still managed to burn my eyes.The dull ache in my temples sharpened. Eyes screwed shut, I groped for the basin and leaned into it while waiting for the pain to pass. Looking into the mirror all I could see were the purple smudges beneath my eyes like wells sinking deeper every day. “You need to see a therapist,” seemed to echo into the damp bathroom like some stranger’s voice filled with concern.
 
 The sticky suck of the leather couch in the sun was somehow comforting. I looked down at the seam that I was worrying with my fingers, without this thin edge of material to hold onto I don’t think I could have gone on, don’t think I could have looked up again and kept talking. I knew she was sitting across the room, looking at me, judging me, whispering to her notebook about how crazy I was.  
 
@@ -61,4 +61,3 @@ Re-introduced synthetic voice to the Control AI. Ability to assign voice of anot
 **Fixed:** 10% of the population misattributing facial recognition searches to original memory.    
 **Fixed:** Auto-play of video and audio clips has been disabled.   
 **Fixed:** Night Mode between the hours of 12AM and 6AM has been enforced in state legislature for all minors under the age of 16.   
- 

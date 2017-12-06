@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: artifact
 title: Ask Me How I Feel
 subtitle: The computer as partner with agency.
 author: Tin Geber

@@ -1,8 +1,9 @@
 ---
-layout: post2
+layout: artifact
 title: hai.ku
 subtitle: what if human-computer interaction had to follow poetry and aesthetics to correctly compile?
 author: Tin Geber
+tags: framework material-agency
 ---
 
 
@@ -19,4 +20,4 @@ Memories of spring.
 >>>
 
 It is done. I straighten my back, clean the stylus carefully with a silk handkerchief, and place it back in its recess on the workstation’s wooden frame. I stand up, bow slowly, and leave. The low, reverberating hum might have changed in tone; but it might also be my imagination.
-Later that evening, during communal dinner, a courier hovers to my table and positions a folded piece of parchment in front of me. I unfold it slowly, doing my best to hide my excitement. The message reads: `X2B emissions increased by 27 units per second. Oscillation stable within +-0.2 range`. I smile in satisfaction and continue eating my supper.
+Later that evening, during communal dinner, a courier hovers to my table and positions a folded piece of parchment in front of me. I unfold it slowly, doing my best to hide my excitement. The message reads: `X2B emissions increased by 27 units per second. Oscillation stable within +-0.2 range.` I smile in satisfaction and continue eating my supper.

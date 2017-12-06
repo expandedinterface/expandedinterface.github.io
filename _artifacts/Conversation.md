@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: artifact
 title: Conversation
 subtitle: The intimate pact we make with our computers
 author: Megan Bates
@@ -24,12 +24,10 @@ She looked across at him and spoke with what she hoped was finality.
 There was a long silence, his face constricted. He needed to say exactly the right thing.
 She wished he would leave. She felt she owed him this time, a desperation she didn’t understand was clinging to him. But he was asking for so much, this conversation was pointless. It was enough having to work with the computer at work, she certainly didn’t want one at home. It was her life!
 He couldn’t overcome his fear of speaking. They stood there, in silence, with time inching by. Nothing he could think of was good enough.
-Saying anything was better than nothing. 
+Saying anything was better than nothing.
 
 - {:.indent-2}“I was thinking about those couples where one of them gets amnesia… The other is still in love with them, and can’t stop overstepping personal boundaries. It makes it so hard for them to fall back in love. Even if they were perfect for each other, were happier together than they’d ever been. The person with lost memories isn’t going to have a natural experience of falling in love. It can’t feel real for them.”
 
-- {:.indent-2}“Love? Why are you talking about love?” 
+- {:.indent-2}“Love? Why are you talking about love?”
 
 She suddenly looked afraid, and a little disgusted.
-
-
