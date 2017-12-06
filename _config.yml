@@ -28,7 +28,7 @@ permalink: /:title/
 # Set encoding to UTF-8
 encoding: utf-8
 
-# Collections for texts
+# Collections for artifacts
 collections:
   artifacts:
     output: true
@@ -50,6 +50,3 @@ kramdown:
 exclude:
   - optional
   - vendor
-
-# Theme
-# theme: "ed."
