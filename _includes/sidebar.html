@@ -12,9 +12,22 @@
   </div>
 
   <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == "/user-manual/" %} active{% endif %}" href="{{ site.baseurl }}/user-manual/">User Manual</a>
+    <div class="sidebar-nav-separator"><h3 class="masthead-title">Artifact Categories</h3></div>
+    <a class="sidebar-nav-item{% if page.url == "/framework/" %} active{% endif %}" href="{{ site.baseurl }}/framework/">Framework</a>
+    <a class="sidebar-nav-item{% if page.url == "/material-agency/" %} active{% endif %}" href="{{ site.baseurl }}/material-agency">Material Agency</a>
+    <a class="sidebar-nav-item{% if page.url == "/ritual/" %} active{% endif %}" href="{{ site.baseurl }}/ritual/">Ritual</a>
+    <a class="sidebar-nav-item{% if page.url == "/transpareny/" %} active{% endif %}" href="{{ site.baseurl }}/transparency/">Transparency</a>
+    <div class="sidebar-nav-separator"></div>
+
+    <!-- Commenting out all automatic generation of links - for better control over the order -->
+
+
+  <!--
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-    {% comment %}
+
+     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
@@ -29,14 +42,7 @@
     {% endfor %}
 
 
-    {% comment %}
-      Printing all pages from the "artifact" collection
-    {% endcomment %}
-
-    {% assign pages_list = site.artifacts | sort:"url" %}
-    {% for node in pages_list %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-    {% endfor %}
+  -->
 
 
 
@@ -44,7 +50,19 @@
 
     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate me</a></span>
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annotate this page</a></span>
+
+
+    <div class="sidebar-nav-separator"> </div>
+      {% comment %}
+        Printing all pages from the "artifact" collection
+      {% endcomment %}
+
+      {% assign pages_list = site.artifacts | sort:"url" %}
+      {% for node in pages_list %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+      {% endfor %}
+
 
 <!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a> -->
 <!--  -->

@@ -3,6 +3,7 @@ layout: artifact
 title: Original Thought
 subtitle: On the transparent interface
 author: Becky Aston
+tags: transparency
 
 ---
 

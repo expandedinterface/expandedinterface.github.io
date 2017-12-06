@@ -1,0 +1,28 @@
+
+a.logo-image {
+  display: block;
+  width: 128px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../expandedinterfacelogo.png);
+  background-size: contain;
+  background-position: center center;
+  text-indent: -999999999999px;
+}
+
+
+.sidebar-nav-separator {
+  padding-bottom: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  min-height: 40px;
+}
+
+.sidebar-nav-separator h3.masthead-title {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+  margin-top: 40px;
+  color: #bbb;
+}

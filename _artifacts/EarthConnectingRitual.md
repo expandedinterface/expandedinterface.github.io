@@ -3,6 +3,7 @@ layout: artifact
 title: ECR
 subtitle: Earth Connecting Ritual
 author: Zjana Muraro
+tags: ritual
 ---
 
 *Modern and pre-modern artists and Scientists The city and the wilderness Eastern and western My hand on my phone in my pocket Connecting To everyone I know Whenever I want. The microbes on the screen Their feelings Electromagnetic radiation rapidly exchanged Fingertips Fingertips Fingertips The wall Culture Nature Microcosm of a larger process Technology as culture, surrounding us What is the appropriate adaptation in this situation? If the world always already speaks, even without us trying Even before we make the dance, the song, the painting the program How do we adapt alongside.*
@@ -22,4 +23,4 @@ author: Zjana Muraro
 - Feel the leftover vibration in your body as interface.
 - Repeat as needed.
 
-(This ritual is best experienced by doing it consistently and completely after each time you've spent a prolonged period of time working on a tech interfaces and /or in any kind of earth connecting emergency).
+`This ritual is best experienced by doing it consistently and completely after each time you've spent a prolonged period of time working on a tech interfaces and /or in any kind of earth connecting emergency`

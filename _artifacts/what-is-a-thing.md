@@ -3,6 +3,7 @@ layout: artifact
 title: How to interact with a thing?
 subtitle: Thoughts on interfacing with the virtual, a riff on Kosuth’s One and Three Chairs.
 author: Becky Aston
+tags: material-agency
 ---
 
 Is it porcelain?     
