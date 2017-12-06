@@ -13,6 +13,10 @@ author:
   url:
   email:
 
+# Random redirect settings
+random_redirect:
+pages: true
+
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown, green
