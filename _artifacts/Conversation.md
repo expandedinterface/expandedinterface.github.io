@@ -3,6 +3,7 @@ layout: artifact
 title: Conversation
 subtitle: The intimate pact we make with our computers
 author: Megan Bates
+tags: trust
 ---
 
 She watched the man.

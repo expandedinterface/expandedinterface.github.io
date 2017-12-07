@@ -7,7 +7,16 @@ _Speculative methods as spaces to re-frame, re-imagine and poke at sociocultural
 
 
 -------------------------
-
-##Entry 1
-
-##Entry 2
+<div class="toc">
+  <h2>Artifacts</h2>
+  <ul class="texts">
+  {% assign pages_list = site.artifacts | sort:"url" %}
+  {% for node in pages_list %}
+  	{%if node.tags contains "framework" %}
+   <li >
+	<a class="{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
