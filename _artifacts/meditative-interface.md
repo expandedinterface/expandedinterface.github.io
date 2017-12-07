@@ -3,6 +3,7 @@ layout: artifact
 title: Meditative Interface
 subtitle: On the brain as computer
 author: Megan Bates
+tags: ritual
 ---
 
 We recommend finding a quiet location where you will not be disturbed and you can sit and feel calm and safe for 20-30 minutes………………………………………
