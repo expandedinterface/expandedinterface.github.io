@@ -8,17 +8,15 @@ _What is the role of routine and behavior modification in commonly used interfac
 
 -------------------------
 
-<div class="toc">
-  <h2>Artifacts</h2>
-  <ul class="texts">
+<div class="artifacts-list">
+  <h1>Artifacts</h1>
   {% assign pages_list = site.artifacts | sort:"url" %}
   {% for node in pages_list %}
   	{%if node.tags contains "ritual" %}
-   <li >
-	<a class="{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-    </li>
+    <a class = "artifacts-list-item" href="{{ site.baseurl }}{{ node.url }}">
+  	   <h2>{{ node.title }}</h2>
+      <p> {{node.subtitle}} </p>
+    </a>
     {% endif %}
   {% endfor %}
-  </ul>
 </div>
-

@@ -8,16 +8,15 @@ _“Immersed in her work, the CAD interface becomes for the engineer a simulacru
 _"The nonhuman turn, on the other hand, insists (to paraphrase Latour) that “we have never been human” but that the human has always coevolved, coexisted, or collaborated with the nonhuman—and that the human is characterized precisely by this indistinction from the nonhuman."_
 
 -------------------------
-<div class="toc">
-  <h2>Artifacts</h2>
-  <ul class="texts">
+<div class="artifacts-list">
+  <h1>Artifacts</h1>
   {% assign pages_list = site.artifacts | sort:"url" %}
   {% for node in pages_list %}
   	{%if node.tags contains "material-agency" %}
-   <li >
-	<a class="{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-    </li>
+    <a class = "artifacts-list-item" href="{{ site.baseurl }}{{ node.url }}">
+  	   <h2>{{ node.title }}</h2>
+      <p> {{node.subtitle}} </p>
+    </a>
     {% endif %}
   {% endfor %}
-  </ul>
 </div>
