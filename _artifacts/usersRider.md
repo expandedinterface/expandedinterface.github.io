@@ -10,8 +10,8 @@ tags: framework transparency trust
 
 ____________________________________________________________________________
 
-     I, THE USER, REFUSE TO PARTICIPATE IN ANY INTERACTION, PROFESSIONAL 
-     OR OTHERWISE, UNTIL THE FOLLOWING CONDITIONS HAVE BEEN MET TO A 
+     I, THE USER, REFUSE TO PARTICIPATE IN ANY INTERACTION, PROFESSIONAL
+     OR OTHERWISE, UNTIL THE FOLLOWING CONDITIONS HAVE BEEN MET TO A
      SATISFACTORY STANDARD:
 
 1. If you’re going to collect my data, at least ask me first and say thank you. I’m making you a fortune, the least you could do is be polite. And I don’t mean giving me a link to your privacy policy, just make it clear when you’re tracking me that you’re storing that information so I don’t feel like I’m being stalked every time you ‘recommend’ something to me.
@@ -26,9 +26,8 @@ ____________________________________________________________________________
 
 6. I work with you pretty intensively and I need a more varied work environment than sitting being plugged into a wall. I would like to work on some more physical stuff with you, maybe standing or walking around. Its pretty easy to get RSI and bad posture with the pose you keep demanding I work in.
 
+Signed,
 
-Signed ![signature](/assets/signature.png){:class="img-responsive"}
+<img src="/assets/signature.png" alt="signature" style="width: 200px;"/>
 
-    DOWNLOAD THIS USER'S RIDER FOR YOUR OWN USE <a href="assets/UsersRider.pdf">HERE</a>
-
-
+[DOWNLOAD THIS USER'S RIDER FOR YOUR OWN USE HERE](/assets/UsersRider.pdf)

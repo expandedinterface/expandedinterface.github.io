@@ -3,9 +3,7 @@ title: "Trust"
 layout: page
 ---
 
-_Technology is your friend, your educator, your slave, and your lover. . Moving away from the features of interfaces and towards emotional activity analysing the effects on our emotions these intimate relationships and exchanges have between us and our technologies. The relationship with our computers doesn’t have a framework, there are no social rules or expectations like the one we share with other humans. Lucy Suchman (REFERENCE) Intimacy through computers demonstrates how much we are ready to push boundaries that we wouldn’t with other humans. What are the ethical implications in the trust component of our exchange and can we codify trust mechanisms with interfacing? Animism(? REFERENCE)_
-
-_Lucy Suchman quote → “The point in the end is not to assign agency either to persons or to things but to identify the materialization of subjects, objects, and the relations between them as an effect, more and less durable and contestable, of ongoing sociomaterial practices.”_
+_Technology is your friend, your educator, your slave, and your lover. Moving away from the features of interfaces, and towards emotional activity, the role trust plays in affecting these intimate relationships becomes apparent. Lucy Suchman in “Figuring the Human in AI and Robotics” establishes that “machines must in some sense be granted agency to be brought into relationship with us.” When we analyse this relationship, it is apparent that it often isn’t a healthy one. There is no framework, nor any social rules or expectations like the ones we share with other humans. Intimacy through computers demonstrates how much we are ready to push boundaries that we wouldn’t with other humans. What are the ethical implications in the trust component of our exchange and can we codify trust mechanisms with interfacing?_
 
 -------------------------
 

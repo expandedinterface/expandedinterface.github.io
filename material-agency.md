@@ -3,9 +3,10 @@ title: "Material Agency"
 layout: page
 ---
 
-_“Immersed in her work, the CAD interface becomes for the engineer a simulacrum of the site, not in the sense of a substitute for it but rather of a place in which to work with its own specific materialities, constraints, and possibilities.” (Lucy Suchman)_
+_Material Agency is a misnomer in a sense, as we take Lucy Suchman’s stance that the ultimate point is “not to assign agency either to persons or to things but to identify the materialization of subjects, objects, and the relations between them as an effect, more and less durable and contestable, of ongoing sociomaterial practices.” However, for the lack of a better metaphor to re-orient ideas about the centrality of human agency we have chosen to continue to play with the term._
 
-_"The nonhuman turn, on the other hand, insists (to paraphrase Latour) that “we have never been human” but that the human has always coevolved, coexisted, or collaborated with the nonhuman—and that the human is characterized precisely by this indistinction from the nonhuman."_
+_To return to Lucy Suchman’s idea of the “sociomaterial”, this introduction of social process allows for an expanded conception of materiality, recognizing for example that the virtual has its own materiality. The term Material points to the situatedness of reality: mineral, biological, liveness, embodiment, entanglement, the terms will continue to be expanded and contested. As Richard Grusin states in The Nonhuman Turn, “(to paraphrase Latour) that ‘we have never been human’ but that the human has always coevolved, coexisted, or collaborated with the nonhuman—and that the human is characterized precisely by this indistinction from the nonhuman."_ 
+
 
 -------------------------
 <div class="artifacts-list">
