@@ -23,4 +23,4 @@ tags: ritual
 - Feel the leftover vibration in your body as interface.
 - Repeat as needed.
 
-`This ritual is best experienced by doing it consistently and completely after each time you've spent a prolonged period of time working on a tech interfaces and /or in any kind of earth connecting emergency`
+`This ritual is best experienced by doing it consistently and completely after each time you've spent a prolonged period of time working on a tech interface and/or in any kind of earth connecting emergency`
